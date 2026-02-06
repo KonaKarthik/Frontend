@@ -1,0 +1,90 @@
+1)FRONTEND
+
+HTML(Hyper text markup language)
+CSS(Cascading style sheets)
+JAVASCRIPT
+BOOTSTRAP
+
+2) Develop web application / Website
+
+    -> Design as a input  ->  Develop web application
+
+    UI/UX Designer
+
+    UI - User Interface
+    UX - User Experience
+
+    Tool -> Mockup -> Figma / Adobe XD 
+
+    BA - Business Analyst  -> Wireframes(where login should be there , It is in black and white format ) & Documents
+
+SDLC-Software Devlopment Life Cycle
+    Client  -> Business Analyst  -> UI / UX Designer -> Developers -> Devops Enginner () -> Testing QA -> Customers
+
+3) Balsamiq is a tool used to create the Wireframes.It is in the Black and white format.
+
+4) Figma is a Tool used to create the design.
+    -> UI / UX Designer is used to create the designs.
+
+****HTML- Hyper Text Markup language
+> It consists of predefines Markup tags /elements.
+> To display the information (Text/audio/video/images).
+
+****CSS-Cascading Style sheets
+
+>  To add styles & design layouts for HTML Tags.
+
+    Welcome to the HTML classes
+
+****JAVASCRIPT-It is a programming Language.
+> It adds functionality to HTML tags.
+
+    Create an accout
+
+****BOOTSTRAP - To reduce the development time.
+
+    ->Predefined Components (Functionalities)
+
+
+HTML & CSS - WEBSITE - Static Behaviour
+HTMl:
+>It consists of predefines markup tags.
+    Syntax: Tag
+
+        <TagName> Contenet </TagName>
+
+        <TagName>: Starting Tag 
+        </TagName>: Ending Tag
+
+> Basic Syntax of Every HTML File:
+
+    <html>
+        <head>
+
+        </head>
+        <body>
+
+        </body>
+
+    </html>
+
+    File Explorer -> Search for the File -> Double Click on the File -> O/P will be Displayed automatically in the Browser.
+
+
+PRE DEFINED TAGS:
+>HEADER Tags
+    (h1-h6) - Difference b/w each header tag is font size
+
+    Synatax:
+
+    <h1> Content </h1>
+    <h2> Content </h2>
+    <h3> Content </h3>
+    <h4> Content </h4>
+    <h5> Content </h5>
+    <h6> Content </h6>
+
+TASK:
+Setup VSC
+Create a html file.
+and work on header tags.

@@ -1,0 +1,27 @@
+
+h2{
+    color:red;
+}
+p{
+    color: blue;
+}
+div{
+    border:1px solid black;
+}
+
+#manage{
+    color:gold;
+    font-size: 50px;
+}
+
+#alumni{
+    color: green;
+}
+
+.projects{
+    color:brown
+}
+
+#aiprogram{
+    width: 400px;
+}

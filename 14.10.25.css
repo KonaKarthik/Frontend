@@ -1,0 +1,26 @@
+h2{
+    color: #b52282;
+}
+
+h4{
+    color: rgb(0, 0, 255);
+}
+h5{
+    color: hsl(47, 82%, 51%)
+}
+
+.course{
+    font-family: 'Times New Roman', Times, serif;
+}
+#curriculum{
+    background-color: #912c87;
+}
+#div1{
+    border:1px solid black;
+    border-radius:10px;
+    padding: 10px;
+}
+#div1 button{
+    border: 2px solid black;
+    border-radius: 10px;
+}

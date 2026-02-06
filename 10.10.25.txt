@@ -1,0 +1,66 @@
+1)Headers
+2) Paragraph : For displaying paragraph in web page.
+    Syatax:
+        <p> Content </p>
+
+HTML COMPILER: Compiler tasks input from user , executes it and displays output in browser. 
+
+VSC - Extensions - Live Server
+    > It monitors the file changes , and when file is changed it automatically refresh the web page.
+
+    In a laptop , we want to run multiple applications.
+
+        - Ports (0- 65***)
+        27017
+
+        300
+
+    > http://127.0.0.1:5500/10.10.25.html(filename)
+
+    
+3)Image:
+
+    syntax:
+        Best for the production level of usage.
+        <img src="filename.ext" alt="Image name">
+
+        src=source
+        alt=alternate
+
+4) Attribute : It adds additional functionality to tag.
+
+    Syntax:
+
+        <tagname attribute1="value1" attribute2="value2" attribute3="value3" attributeN="valueN"> Content </tagname>
+        example:
+        <img src="filename.ext" alt="Image name">
+
+5)Anchor: Navigate from one web page to another web page.
+
+    Syntax: 
+
+        <a href="filename.html>Content</a> 
+        href- hyper reference.
+
+6)Favicon: (Needs to be added in head tag of the html file)
+
+    <link rel="icon" href="filename.ext">
+
+7)Title: (Needs to be added in head tag of the html file)
+
+    Syntax:
+        <title>Content</title>
+
+8)Button:
+    Syntax:
+        <button>Content</button>
+
+9)Division:Used to group set of html tags into one unit.Used to divide the web page into different parts.
+    Syntax:
+
+        <div>
+
+        </div>
+
+Tasks:
+    Do our trending courses and our trending programs :
